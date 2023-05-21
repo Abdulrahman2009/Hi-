@@ -1,0 +1,38 @@
+.all{background-color: violet;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+    width: 1000px;
+
+}
+.head{background-color: snow;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.nav{background-color: crimson;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+.info{background-color: mediumseagreen;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    float: left;
+    width: 500px; 
+}
+.last{background-color: mediumspringgreen;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;}
+
+.a{display: inline;
+margin: 10px;}
+img{width: 380px;
+    margin: 5px;
+    border-radius: 5px;
+float: left;}
+.clear{clear: both;}

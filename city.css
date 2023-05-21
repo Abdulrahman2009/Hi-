@@ -1,0 +1,38 @@
+.city1{background-color: rgb(20, 220, 177);
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+    width: 1000px;
+
+}
+.city2{background-color: crimson;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.city3{background-color: rgb(241, 229, 213);
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+}
+.city4{background-color: blueviolet;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    float: left;
+    width: 500px; 
+}
+.city5{background-color: chartreuse;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;}
+
+.a{display: inline;
+margin: 10px;}
+img{width: 380px;
+    margin: 5px;
+    border-radius: 5px;
+float: left;}
+.clear{clear: both;}
